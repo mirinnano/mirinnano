@@ -1,24 +1,27 @@
-## Hi, I'm mirin 👋
+# こてっちゃん
 
-物語を動かす仕組みと、作業を楽にする道具を作っています。
+エロゲと投資が好きです。
+ゲームのエンジンや、ギターの練習アプリも作っています。
 
-- 🎮 ノベルゲームエンジンとスクリプト言語を開発中
-- 🛠 開発者向けツールやエージェント連携の拡張を制作
-- 🎸 ギター練習ツールなど、日常で使うアプリも作っています
-- 🐧 Gentoo / NixOS / Sway で環境づくり
+[Profile & About me](https://mirinnano.github.io/) / [X (@102502)](https://x.com/102502)
 
-🌐 **Portfolio:** https://mirinnano.github.io/
+## 魂のゲーム
 
-### Featured
+- サナララ
+- リトルバスターズ！
+- Narcissu
+- Summer Pockets
+- 素晴らしき日々
+- 家族計画
 
-| Project | Description | Stack |
-|---|---|---|
-| [Aria Engine](https://github.com/mirinnano/aria-engine-rust) | 物語のための所有権対応スクリプト言語と決定論的ランタイム | Rust |
-| [Guitar Tools](https://github.com/mirinnano/guitar) | macOS / Android 向けギター練習ツール | Swift, Kotlin |
-| [Pi Field Console](https://github.com/mirinnano/pi-field-console) | Pi セッションを操作するモバイル向け Web コンソール | Go |
-| [Pi Herdr Orchestrator](https://github.com/mirinnano/pi-herdr-orchestrator) | 複数の Pi エージェントを連携させる拡張 | TypeScript |
-| [dotfiles](https://github.com/mirinnano/dotfiles) | Gentoo + Sway の作業環境設定 | Shell |
+## 好きなクリエイター
 
-### Stack
+片岡とも、麻枝准、折戸伸治、都乃河勇人、田中ロミオ、魁、海富一、木緒なち、王雀孫、藤間仁。
 
-Rust · Swift · TypeScript · Go · Kotlin · C# · Python
+## 作ったもの
+
+- [Aria Engine](https://github.com/mirinnano/aria-engine-rust): 物語を書くための言語とランタイム
+- [Guitar Tools](https://github.com/mirinnano/guitar): macOS と Android 向けのギター練習アプリ
+- [Pi Herdr Orchestrator](https://github.com/mirinnano/pi-herdr-orchestrator): AI エージェント Pi の連携拡張
+- [Pi Field Console](https://github.com/mirinnano/pi-field-console): Pi セッションを確認するモバイル向けコンソール
+- [dotfiles](https://github.com/mirinnano/dotfiles): Gentoo と Sway の作業環境の設定
